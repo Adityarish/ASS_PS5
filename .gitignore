@@ -1,0 +1,13 @@
+# Data folders
+data/raw/
+data/processed/
+*.csv
+
+# Environments
+.venv/
+venv/
+env/
+
+# Output and logs
+outcomes.txt
+*.log
