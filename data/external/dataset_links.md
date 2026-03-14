@@ -16,10 +16,4 @@
 
 ### Processed Dataset Links
 
-1. Cleaned Dataset
-
-    https://drive.google.com/file/d/14tqwKONo0YzwQ8dweLbNl2BY-DVHlcoK/view?usp=sharing
-
-2. Merged Dataset
-
-    https://drive.google.com/file/d/1sLOhciLOPLWgXqBm_GuUsbC8u88NjQ9Q/view?usp=sharing
+ https://drive.google.com/drive/folders/11RTNCgNWafgermzJVKYqz3CO6-PNC8mn?usp=drive_link
